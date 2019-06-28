@@ -1,1 +1,2 @@
-# Belly-Button-Biodiversity
+# Belly Button Biodiversity - Assignment
+## Sandra Mejia
